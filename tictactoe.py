@@ -1,5 +1,5 @@
 board = [' ' for i in range(10)]
-
+#TIC TAC TOE game
 def insertLetter(letter,pos):
     board[pos] = letter
 
